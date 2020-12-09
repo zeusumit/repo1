@@ -1,1 +1,5 @@
  new text file
+another new line
+another 3rd line
+added another line to check staged change
+
